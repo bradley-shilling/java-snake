@@ -28,17 +28,17 @@ public class SidePanel extends JPanel {
 	/**
 	 * The large font to draw with.
 	 */
-	private static final Font LARGE_FONT = new Font("Tahoma", Font.BOLD, 20);
+	private static final Font LARGE_FONT = new Font("Ubuntu", Font.PLAIN, 20);
 	
 	/**
 	 * The medium font to draw with.
 	 */
-	private static final Font MEDIUM_FONT = new Font("Tahoma", Font.BOLD, 16);
-
+	private static final Font MEDIUM_FONT = new Font("Ubuntu", Font.PLAIN, 16);
+	
 	/**
 	 * The small font to draw with.
 	 */
-	private static final Font SMALL_FONT = new Font("Tahoma", Font.BOLD, 12);
+	private static final Font SMALL_FONT = new Font("Ubuntu", Font.PLAIN, 12);
 	
 	/**
 	 * The SnakeGame instance.
